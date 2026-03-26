@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Palak Chaudhari
 
-<!--
-**palak242007/palak242007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Cybersecurity Enthusiast | 🚀 Lifelong Learner 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 First-year Int. Btech + Mtech CSE (Cyber Security) student  
+- 🔐 Interested in Cybersecurity, Bug Bounty & Ethical Hacking  
+- 🐍 Learning Python & C++  
+- 📚 Currently exploring: Digital Forensics / Networking / Security Tools  
+- 🎯 Goal: Become a top-tier security professional  
+
+---
+
+## 🛠️ Skills & Tools
+**Languages:**  
+Python | C++ | 
+
+**Cybersecurity / Tech:**  
+Networking Basics | Linux |
+
+---
+
+## 📌 Current Focus
+- 📖 Studying Cybersecurity Fundamentals  
+- 🐞 Practicing Bug Bounty Hunting  
+- 🧪 Learning Digital Forensics  
+- ⚡ Building Projects  
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: [https://www.linkedin.com/in/palak-chaudhari-50b35837b?utm_source=share_via&utm_content=profile&utm_medium=member_android]   
+- 📧 Email: palak.25mei10007@vitbhopal.ac.in 
+
+---
+
+⭐️ From [Palak Chaudhari](https://github.com/palak242007)
